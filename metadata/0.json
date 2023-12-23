@@ -1,0 +1,41 @@
+{
+    "name": "1",
+    "symbol": "",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmdtK4B3fA1PcsxZqBs7QxqxBsL4peNJk655ULGge1yY9t",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.jpeg",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "CV6uQbknPdCVPQunQHqosyvdHJeTuq3629VJdzs8AYjV",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Shahi Paneer "
+        },
+        {
+            "trait_type": "Status",
+            "value": "Unhealthy"
+        },
+        {
+            "trait_type": "XP points",
+            "value": "3"
+        },
+        {
+            "trait_type": "Calorie",
+            "value": "381 cal per 100gm"
+        }
+    ],
+    "collection": {}
+}
